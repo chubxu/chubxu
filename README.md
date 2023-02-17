@@ -5,7 +5,6 @@ I'm ChubXu, I'm trying to code every day ⚡
 ------
 
 * 🔭 I’m currently working on a manufacturing company.
-
 - 🌱 I’m currently learning front-end and back-end.
 - 👯 I’m looking to collaborate on coding or photography.
 - 💬 Ask me about anything and I'll try to answer you.
