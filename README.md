@@ -13,7 +13,4 @@ I'm ChubXu, I'm trying to code every day ⚡
 - 😄 I'm Chinese, so my English writing or speaking is not so good, But I'll try my best.
 
 
-
-```text
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=chubxu)](https://github.com/anuraghazra/github-readme-stats)
-```
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chubxu)](https://github.com/anuraghazra/github-readme-stats)
